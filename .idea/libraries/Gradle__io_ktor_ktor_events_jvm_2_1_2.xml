@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: io.ktor:ktor-events-jvm:2.1.2">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-events-jvm/2.1.2/cd8860877f4acfc250c87ab695aa229e9953464/ktor-events-jvm-2.1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-events-jvm/2.1.2/fecd73c1750d741bf1c8c50594601397a58cf16e/ktor-events-jvm-2.1.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.ktor/ktor-events-jvm/2.1.2/3ed4522cbf061e6b0837916eeac4857f06057e89/ktor-events-jvm-2.1.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
